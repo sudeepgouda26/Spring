@@ -1,15 +1,27 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>spring</groupId>
+<<<<<<< HEAD
   <artifactId>Spring_02</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
    <dependency>
+=======
+  <artifactId>spring_01</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+>>>>>>> 57da5fc623f0f87cbfaab5d7e39f497dfca9a937
    
     
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
     <version>6.2.7</version>
 </dependency>
+<<<<<<< HEAD
 </dependencies>
+=======
+
+  </dependencies>
+>>>>>>> 57da5fc623f0f87cbfaab5d7e39f497dfca9a937
 </project>
